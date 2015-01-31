@@ -38,7 +38,7 @@ after the initial seeding, this is the regular startup method.
 1. `cd /vagrant/blacklight/`
 1. `rake jetty:start`
 1. `rails s`
-1. in a browser navigate to http://localhost:3000
+1. in a browser navigate to [localhost](http://localhost:3000)
 
 
 ### see also
